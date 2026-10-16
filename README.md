@@ -92,7 +92,7 @@ seed (42), so every model starts from the same RNG state and sees the same batch
 ## 4. How to run
 
 ```bash
-git clone https://github.com/<your-username>/fgai-autoregressive-text-generation.git
+git clone https://github.com/kanwarpal1203s-pixel/fgai-autoregressive-text-generation.git
 cd fgai-autoregressive-text-generation
 pip install -r requirements.txt          # torch, numpy, pandas, matplotlib, jupyter
 
