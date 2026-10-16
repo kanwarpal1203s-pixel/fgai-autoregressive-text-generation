@@ -1,0 +1,25 @@
+{
+  "raw_characters": 748167,
+  "novel_characters": 694354,
+  "chapters": 61,
+  "paragraphs": 2369,
+  "sentences": 5912,
+  "avg_sentence_length_tokens": 22.585926928281463,
+  "total_tokens_incl_punct": 139440,
+  "word_tokens": 122176,
+  "unique_words": 6316,
+  "hapax_legomena": 2362,
+  "vocab_size_min_freq": 3606,
+  "min_freq": 2,
+  "train_tokens": 111552,
+  "val_tokens": 13944,
+  "test_tokens": 13944,
+  "train_sequences": 111532,
+  "val_sequences": 13924,
+  "test_sequences": 13924,
+  "unk_rate": {
+    "train": 0.020582329317269075,
+    "val": 0.03055077452667814,
+    "test": 0.03313253012048193
+  }
+}
